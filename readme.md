@@ -1,1 +1,1 @@
-A little probe of RWD site.
+A little sample of RWD site
