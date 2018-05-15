@@ -47,8 +47,9 @@
   background-color: #C8C6FA;
 }
 
-.illustration {
+.illustration image {
   width: 100%;
+  display: block;
 }
 
 /* Mobile Styles */
